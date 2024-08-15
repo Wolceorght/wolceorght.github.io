@@ -108,9 +108,9 @@
 <tr>
 <th>專輯名稱</th>
 <th>音樂家</th>
-<th align="center"><div style="width:80px">地區</div></th>
-<th align="center">發行時間</th>
-<th align="center">記錄時間</th>
+<th align="center"><div style="width:70px">地區</div></th>
+<th align="center"><div style="width:90px">發行時間</div></th>
+<th align="center"><div style="width:90px">記錄時間</div></th>
 <th align="center"><div style="width:50px">評分</div></th>
 </tr>
 </thead>
@@ -524,7 +524,7 @@
 </tr>
 <tr>
 <td> 吉他手 Groupies</td>
-<td> 陳绮貞</td>
+<td> 陳綺貞</td>
 <td align="center">臺灣</td>
 <td align="center"> 2002-08-02</td>
 <td align="center">2024-06-19</td>
@@ -908,7 +908,7 @@
 </tr>
 <tr>
 <td> 太陽</td>
-<td>陳绮貞</td>
+<td>陳綺貞</td>
 <td align="center">臺灣</td>
 <td align="center"> 2009-01-22</td>
 <td align="center">2024-06-26</td>
