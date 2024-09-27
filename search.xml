@@ -986,6 +986,14 @@
 <td align="center">2024-09-12</td>
 <td align="center">68</td>
 </tr>
+<tr>
+<td> 太平盛世</td>
+<td>陶喆</td>
+<td align="center">臺灣</td>
+<td align="center"> 2005-01-21</td>
+<td align="center">2024-09-27</td>
+<td align="center">76</td>
+</tr>
 </tbody></table>
 ]]></content>
       <categories>
@@ -1001,9 +1009,19 @@
     <content><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>漢語拼音方案，作為文字改革時期的產物，其最初的設計目的是取代漢字成為漢語的新式文字，也即所謂的漢字拉丁化。該方案在設計之時，考慮的更多是是否適合作為一門語言的文字，而不是是否適合用於拼讀。因此，如你我所知，漢語拼音在簡化拼式、充分利用拉丁字母上花了很大功夫，而易讀性和嚴謹性上較為缺乏。隨着漢字拉丁化運動的終止，漢語拼音地位逐漸下降，成為一套用於為漢字注音的體系。此時，漢語拼音的上述缺陷就暴露出來：由於部分字母所對應的讀音與在多數歐洲語言中的讀音相去甚遠，未經訓練的外國人讀出的漢語拼音可能和正確發音大相徑庭。今年以來的入境旅遊潮更加反映了這一問題：歐美旅行者口中接連吐出觀衆從未設想過的發音，讓人哭笑不得。可見，漢語拼音目前最大的問題，在於它並不能很好地起到像日語羅馬字那樣的「注音」作用，而這正是它目前最廣泛的應用場景。因此，筆者試提出一套在現行漢語拼音方案基礎上進行改動的「注音方案」，犧牲一部分簡潔性，而提高它對非母語者的易讀性。</p>
 <h2 id="方案"><a href="#方案" class="headerlink" title="方案"></a>方案</h2><p><figure class="image-caption"><img lazyload="" src="/images/loading.svg" data-src="https://img.z4a.net/images/2024/09/22/-1.png" alt="黑色Bold字重者為拼音，灰色Regular字重者為音標"><figcaption>黑色Bold字重者為拼音，灰色Regular字重者為音標</figcaption></figure></p>
 <h2 id="例文"><a href="#例文" class="headerlink" title="例文"></a>例文</h2><p>以下截取《千字文》的首尾共十七句舉例。</p>
-<div class="tabs" id="tab-1"><ul class="nav-tabs"><li class="tab active"><a class="#1-1">漢字</a></li><li class="tab"><a class="#1-2">漢語注音</a></li></ul><div class="tab-content"><div class="tab-pane active" id="1-1"><p>天地玄黄，宇宙洪荒。日月盈昃，辰宿列張。<br>寒來暑往，秋收冬藏。閏餘成歲，律呂調陽。</p>
-<p>指薪修祜，永綏吉劭。矩步引領，俯仰廊廟。<br>束帶矜莊，徘徊瞻眺。孤陋寡聞，愚蒙等誚。<br>謂語助者，焉哉乎也。</p></div><div class="tab-pane" id="1-2"><p>Tien di shyuen huang, yu jou hong huang.<br>Ry yue ying tzeh, chen su lie jang.<br>Han lai shu wang, chiou shou dong tsang.<br>Ruen yu cheng suei, lyu lyu tiau yang.</p>
-<p>Jy shin shiou hu, yong suei ji shau.<br>Jyu bu yin ling, fu yang lang miau.<br>Shu dai jin juang, pai huai jan tiau.<br>gu lou gua wen, yu meng deng chiau.<br>wei yu ju jeh, yen zai hu ye.</p></div></div></div>]]></content>
+<table>
+<thead>
+<tr>
+<th align="center">漢字</th>
+<th align="center">漢語注音</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">天地玄黄，宇宙洪荒。日月盈昃，辰宿列張。<br>寒來暑往，秋收冬藏。閏餘成歲，律呂調陽。<br><br>指薪修祜，永綏吉劭。矩步引領，俯仰廊廟。<br>束帶矜莊，徘徊瞻眺。孤陋寡聞，愚蒙等誚。<br>謂語助者，焉哉乎也。</td>
+<td align="center">Tien di shyuen huang, yu jou hong huang.<br>Ry yue ying tzeh, chen su lie jang.<br>Han lai shu wang, chiou shou dong tsang.<br>Ruen yu cheng suei, lyu lyu tiau yang.<br><br>Jy shin shiou hu, yong suei ji shau.<br>Jyu bu yin ling, fu yang lang miau.<br>Shu dai jin juang, pai huai jan tiau.<br>gu lou gua wen, yu meng deng chiau.<br>wei yu ju jeh, yen zai hu ye.</td>
+</tr>
+</tbody></table>
+]]></content>
       <categories>
         <category>空洞構想</category>
       </categories>
