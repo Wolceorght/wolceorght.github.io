@@ -1,0 +1,164 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Serif+TC:500,700");
+@import url("https://fonts.font.im/css?family=Source+Serif+Pro:400,600,700");
+
+
+body {
+  margin-top: 40px;
+  padding: 0;
+  height: 100%;
+  padding: 0;
+  font-family: "Source Serif Pro", "Noto Serif TC", serif;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
+#footer {
+    position: fixed;
+    right: 3vw;
+    bottom: 80px;
+    width: 70px;
+    height: 70px;
+    border-radius: 18px;
+    box-shadow: 0 0 1px 1px #e8e8e8;
+    clear: both;
+    text-align: center; 
+}
+
+.title {
+    margin: 40px 0;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+/* 輸入框 */
+
+#search {
+  border: none;
+  border-radius: 18px;
+  outline: none;
+  font-family: "Source Serif Pro", "Noto Serif TC", serif;
+  font-size: 20px;
+  width: 77.8vw;
+  background-color: #f7f7f7;
+  padding: 10px 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+/* 輸入框成為焦點 
+
+#search:focus {
+  border-bottom: 2px solid #4575b6;
+}
+*/
+
+.button {
+    border: none;
+    outline: none;
+    font-family: "Source Serif Pro", "Noto Serif TC", serif;
+    font-size: 20px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.buttonalt {
+    margin: auto;
+    position: absolute;
+    top: 0;bottom: 0;right: 0;left: 0;
+    cursor: pointer;
+    border: 1px solid #e8e8e8;
+    outline: none;
+    font: 500 42px "Source Serif Pro", "Noto Serif TC", serif;
+    vertical-align: middle;
+    background-color: white;
+    border-radius: 18px;
+}
+
+.buttonalt:hover {
+    background-color: #f7f7f7;
+}
+
+.form {
+    width: 80vw;
+    height: 100vh;
+    margin: 20px 0; /*上下邊框20px*/
+}
+
+table {
+    margin-bottom: 120px;
+    box-shadow: 0 0 1px 1px #e8e8e8;
+    border-radius: 18px;
+    border: 1px solid #e8e8e8;
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+    overflow: auto;
+}
+
+th {
+    border-right: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 10px 20px;
+    text-align: left;
+    background-color: #f7f7f7;
+}
+
+td {
+    border-right: 1px solid #ececec;
+    padding: 10px 20px;
+}
+
+tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+th:last-child, td:last-child {
+    border-right-color: transparent;
+}
+
+th:first-child {
+    border-top-left-radius: 17px;
+}
+th:last-child {
+    border-top-right-radius: 17px;
+}
+/*tr:last-child td:first-child {
+    border-bottom-left-radius: 17px;
+}
+tr:last-child td:last-child {
+    border-bottom-right-radius: 17px;
+}*/
+
+th:nth-child(2), td:nth-child(2) {
+    width: 18rem;
+}
+
+th:nth-child(3), td:nth-child(3) {
+    width: 6rem;
+}
+
+th:nth-child(4), td:nth-child(4) {
+    width: 7rem;
+}
+
+th:nth-child(5), td:nth-child(5) {
+    width: 3rem;
+}
+
+.th {
+    cursor: pointer;
+}
+
+.th::after {
+    content: "";
+}
+
+.th.asc::after {
+    content: " 🡡";
+}
+
+.th.desc::after {
+    content: " 🡣";
+}
