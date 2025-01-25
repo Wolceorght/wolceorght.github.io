@@ -1,1 +1,1 @@
-let zj=document.getElementsByClassName("sidebar-nav-toc"),zz=(zj[0].innerHTML="章節",document.getElementsByClassName("sidebar-nav-overview"));zz[0].innerHTML="作者";
+let zj=document.getElementsByClassName("sidebar-nav-toc"),zz=document.getElementsByClassName("sidebar-nav-overview");zj[0].innerHTML="章節",zz[0].innerHTML="作者";
