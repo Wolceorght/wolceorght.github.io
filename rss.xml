@@ -15,8 +15,31 @@
     <atom:link href="https://keshu.space/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>從俗浮沉，與時俯仰</description>
-    <pubDate>Tue, 07 Oct 2025 11:58:46 GMT</pubDate>
+    <pubDate>Sat, 11 Oct 2025 05:51:45 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>COSGlyphs：一款基於連字的《巴別塔聖歌》字體</title>
+      <link>https://keshu.space/posts/cos-glyphs/</link>
+      <guid>https://keshu.space/posts/cos-glyphs/</guid>
+      <pubDate>Sat, 11 Oct 2025 04:09:33 GMT</pubDate>
+      
+      <description>&lt;!-- --&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<link rel="stylesheet" type="text&#x2F;css" href="https://cdn.jsdelivr.net/npm/hexo-tag-hint@0.3.1/dist/hexo-tag-hint.min.css"><!-- --><span id="more"></span><style>  #f1{    list-style-type: none;    font-size: .75em;    color: #999;  }</style><p>一款能夠顯示所有《巴別塔聖歌》中出現的文字的字體。</p><ul><li>支持詩人連字</li><li>支持鍊金術士數字</li><li>支持隱士組合字</li></ul><p><a href="https://keshu.lanzoum.com/iHKPR384wd7i"><strong>點此下載</strong></a> <sup><a id="s1" href="#f1">1</a></sup> <img style="display:inline-block;width:1em;margin-bottom:-.15em !important" data-src="/images/6464.png"></p><hr><li id="f1"><a href="#s1">1.</a> 請閱讀壓縮包中的 README 文檔以瞭解本字體的輸入方式。本字體的輸入基於 OpenType 功能中的連字（liga），請確保輸入環境支持該功能。</li>]]></content:encoded>
+      
+      
+      <category domain="https://keshu.space/categories/%E8%B1%A1%E7%89%99%E5%A1%94/">象牙塔</category>
+      
+      
+      <category domain="https://keshu.space/tags/%E8%A8%AD%E8%A8%88/">設計</category>
+      
+      
+      <comments>https://keshu.space/posts/cos-glyphs/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>2025 年夏季動畫總結</title>
@@ -264,9 +287,9 @@
       <category domain="https://keshu.space/categories/%E8%B1%A1%E7%89%99%E5%A1%94/">象牙塔</category>
       
       
-      <category domain="https://keshu.space/tags/%E8%AA%9E%E8%A8%80%E5%AD%B8/">語言學</category>
-      
       <category domain="https://keshu.space/tags/%E8%A8%AD%E8%A8%88/">設計</category>
+      
+      <category domain="https://keshu.space/tags/%E8%AA%9E%E8%A8%80%E5%AD%B8/">語言學</category>
       
       
       <comments>https://keshu.space/posts/juyin-fangan/#disqus_thread</comments>
